@@ -1,3 +1,3 @@
-git remote add origin https://github.com/あなたの名前/リポジトリ名.git
+git remote add origin https://github.com/drgas6240-pixel/git-test.git
 git branch -M main
 git push -u origin main
